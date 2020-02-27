@@ -1,8 +1,8 @@
 # s3-spark-postgresql
 
-A pipeline template written for fellows in Insight Data Engineering Program NY 20A.\
+A pipeline template written for fellows in Insight Data Engineering Program NY 20A.
 
-You can use it with the tutorial, see the [document].
+You can use it with the tutorial, see the [document](https://docs.google.com/document/d/1Ug7yPnykCLUR_kQN6N1m4wkEFCLoHwE4sKomcKLuP8w/edit?usp=sharing).
 
 ### Introduction
 
